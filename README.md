@@ -15,7 +15,7 @@ Welcome to the comprehensive repository dedicated to teaching ReactJS in depth. 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/hiteshchoudhary/chai-aur-react.git
+   git clone https://github.com/SaurabhKuntal110/Chai-aur-React.git
    ```
 
 2. Navigate to each project folder and follow the instructions in the respective README to set up and run the project.
@@ -41,24 +41,7 @@ Welcome to the comprehensive repository dedicated to teaching ReactJS in depth. 
 ## 📖 Additional Resources
 
 - [Official React Documentation](https://reactjs.org/docs/getting-started.html)
-- [React Community Support on Discord](https://hitesh.ai/discord)
-
-## 💼 Contribution
-
-Contributions are always welcomed. Feel free to raise issues or send in pull requests. Please do not update the existing code as users when they watch videos, they expect same code in repo.
-
-## 📺 "chai aur code" on YouTube
-
-Don't forget to subscribe to ["chai aur code"](https://www.youtube.com/channel/UCNQ6FEtztATuaVhZKCY28Yw) on YouTube for the entire video series and much more!
 
 ## 🙏 Acknowledgements
 
-A big thank you to the React community, Open Source contributors, and all the students and professionals who've provided their feedback and support to make this series better!
-
----
-
-**Happy Learning!** ✨
-
----
-
-_Made with ☕️ by HiteshChoudhary_
+This is a course which I learn from Chai aur Code from Hitesh chaudhary Sir and all credit goes to him for any enquiry please reach out to him from above mentioned links.
