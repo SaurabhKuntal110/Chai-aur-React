@@ -1,10 +1,12 @@
+import Chai from "./Chai"; 
 
-function App() {
-  const [count, setCount] = useState(0)
-
+function App() {  
   return (
-    <h1>Chai aur React with vite | Saurabh Kuntal | vite install and linux command  </h1>
-  )
+    <>
+      <h1>Chai aur React with vite | Saurabh Kuntal </h1>
+      <Chai />
+    </>
+  );
 }
 
 export default App
