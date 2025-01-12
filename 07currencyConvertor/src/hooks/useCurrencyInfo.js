@@ -1,4 +1,4 @@
-import {useEffect, useState} from "React"
+import {useEffect, useState} from 'React'
 
 
 function useCurrencyInfo (currency){
